@@ -8978,7 +8978,10 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-top: 3rem !important;
+}
+.my-5 {
+  margin-bottom: 1rem !important;
 }
 
 .ml-5,
@@ -11504,8 +11507,8 @@ pre .code {
 
 .header {
   position: relative;
-  height: 80vh;
-  min-height: 600px;
+  height: 40vh;
+  min-height: 430px;
   background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.png);
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.png);
   background-size: cover;
