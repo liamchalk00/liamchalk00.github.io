@@ -11285,8 +11285,11 @@ p {
 }
 
 .blog-card .img-holder {
-  min-width: 350px;
-  max-width: 500px;
+  min-height: 200px;
+  max-height: 500px;
+  /*min-width: 540px; */
+  min-width: 561px;
+  max-width: 800px;
 }
 
 .blog-card .img-holder img {
