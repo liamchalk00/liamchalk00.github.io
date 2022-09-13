@@ -11901,8 +11901,8 @@ pre .code {
   position: relative;
   height: 40vh;
   min-height: 430px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Quintet.png);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Quintet.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Centaurus.png);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../headers/Centaurus.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
